@@ -13,7 +13,7 @@ Tags can be nested as demonstrated in the navigation snippet below.
     <title>Web development course</title>
   </head>
   <body>
-    <header>
+    <header> <p>This is a lot of stuff in the header</p>
     <!-- header element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header -->
 
       <nav id="main-navigation">
