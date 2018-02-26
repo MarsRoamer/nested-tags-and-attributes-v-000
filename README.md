@@ -13,7 +13,7 @@ Tags can be nested as demonstrated in the navigation snippet below.
     <title>Web development course</title>
   </head>
   <body>
-    <header>
+    <header> <p>This is a lot of stuff in the header</p>
     <!-- header element documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header -->
 
       <nav id="main-navigation">
@@ -56,7 +56,7 @@ Both `<id>` and `<class>` attributes are often used for styling purposes since t
 
 ```html
 	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
-	
+
 	<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
